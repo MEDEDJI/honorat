@@ -1,0 +1,10 @@
+6
+a-LA COMMANDE "git pull" PERMET DE TELECHARGER ET DE FUSIONNER  AUTOMATIQUEMENT LES MODIFIAVTIONS D'UN REFERANTIEL DISTANT
+tandisque "git fetch" permet telecharger les modifiaction a partir d'un referentiel distant mais ne les fusionnne pas 
+
+
+b-pour annuler les modifications locales non valide on utilise la commande "git checkout" SUIVIE DU NOM DU FICHIER QU'ON VEUT RESTAURER 
+
+c-pour supprimer une branche distante dans GIT, on fera "git push" avec l'option "--delete"
+
+d-POUR VOIR L'HISTORIQUE DES MODIFICATIONS DANS GIT ON FERA "git log" avec l'option "--follow"
